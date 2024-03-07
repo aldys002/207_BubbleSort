@@ -27,7 +27,6 @@ void input() {
 		cin >> arr[i];
 	}
 }
-
 void bubbleSortArray() { //prosedur untuk mengurutkan array dengan metode bubble sort
 	int pass = 1; //step 1
 	do {
